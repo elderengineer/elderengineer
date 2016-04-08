@@ -5,9 +5,67 @@
     <description>大齡工程師談矽谷生活</description>
     <link>http://www.elderengineer.com/</link>
     <atom:link href="http://www.elderengineer.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Mar 2016 02:29:53 -0700</pubDate>
-    <lastBuildDate>Sat, 19 Mar 2016 02:29:53 -0700</lastBuildDate>
+    <pubDate>Fri, 08 Apr 2016 23:22:30 +0800</pubDate>
+    <lastBuildDate>Fri, 08 Apr 2016 23:22:30 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Quicken</title>
+        <description>&lt;p&gt;自從十多年前到美國來後，我一直很勤檢持家，保持著記帳的好習慣，一開始是使用 Bank of America 提供的免費工具 yodlee 來將各個帳戶的資料收集起來。&lt;/p&gt;
+
+&lt;p&gt;後來使用 yodlee 兩年後，就轉到 intuit 的 Quicken ，一開始是跑 Windows 版在 Windows XP 上面，後來轉換到 Linux 上面，先是用 WINE 跑了一段時間，後來改用 Virtual Box 跑了好幾年，等到 2007 年我開始使用 Mac OSX ，仍是用 Parallel 跑了好多年，直到我不想再繼續付錢昇級 Parallel&lt;/p&gt;
+
+&lt;p&gt;2006 年 Mint.com 成為 yodlee, Quicken 以外，第三個選項，一開始我不是太信任 Mint 的聲望，所以還是使用 Quicken ，但是在 2009 年 Mint 被 Intuit (Quicken的母公司) 收購後，我開始轉換記帳工具到 Mint 上面了，一開始是兩個記帳工具都一起使用，但是漸漸的因為雙平台的維護成本、 Parallel 的費用、以及 Quicken for Mac 多年未更新，所以在 2011 年之後，我就正式的轉移到 Mint.com 上面去。&lt;/p&gt;
+
+&lt;h1 id=&quot;quicken-&quot;&gt;Quicken 掛牌出售&lt;/h1&gt;
+
+&lt;p&gt;時間快轉到 2015 年的八月，因為軟體業的重心漸漸轉移到雲端上面， Intuit 逐漸的將旗下的產品如 Quickbook, Turbo Tax 雲端化後，單機板的 Quicken 因為已經有了 Mint.com 這產品而顯得多餘。&lt;/p&gt;
+
+&lt;p&gt;因此 &lt;a href=&quot;https://qlc.intuit.com/announcements/1208585&quot;&gt;Intuit 決定將 Quicken 出售&lt;/a&gt; ，這個決定自然在個人理財部落格間引起一些討論，大家擔心，若是 Quicken 找不到買主而關門，那麼單機版的理財工具又少了一個，而替代方案如
+&lt;a href=&quot;http://www.youneedabudget.com/&quot;&gt;You Need a Budget&lt;/a&gt; 或是 &lt;a href=&quot;http://moneydance.com&quot;&gt;Moneydance&lt;/a&gt; 又不如 Quicken 好用。&lt;/p&gt;
+
+&lt;h1 id=&quot;quicken--1&quot;&gt;Quicken 被私募基金收購&lt;/h1&gt;
+
+&lt;p&gt;在經過八個月的漫長等待後， Quicken 的未來總算是有個好下場，&lt;a href=&quot;http://www.computerworld.com/article/3052640/software-as-a-service/quicken-aims-to-restore-glory-days.html&quot;&gt;Quicken 被 H.I.G. Capital 收購&lt;/a&gt;，在被私募基金收購，新公司的 CEO 會由原來 Quicken 事業體的高層主管 Eric Dunn 擔任。&lt;/p&gt;
+
+&lt;p&gt;而這筆收購案值得注意的是，這不是由私募基金所發起的收購，而是由 Eric Dunn 以及其他 Quicken 的管理階層所發起的管理層收購（Management Buy-Outs），相信只是因為個人資金問題，所以要跟私募基金結合，才能夠把 Quicken 吃下來，相信在五六年之後， Eric Dunn 會把股份從私募基金再買回來。&lt;/p&gt;
+
+&lt;p&gt;這個消息對 Quicken 的長期用戶是個非常好的消息，因為 Eric Dunn 是 Intuit 最早的四個員工之一，同時也是 Quicken 最早的程式設計者之一，對於 Quicken 一定非常的有愛，才會在高層將 Quicken 掛牌出售後，自己籌錢把 Quicken 買下來。&lt;/p&gt;
+
+&lt;h1 id=&quot;quicken-for-mac-&quot;&gt;Quicken for Mac 的未來發展&lt;/h1&gt;
+
+&lt;p&gt;在併購案公告後，Eric Dunn 強調 Quicken for Mac 將是未來發展的重心之一&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://forums.macrumors.com/threads/quicken-for-mac-alternative.1860249/page-6#post-22642838&quot;&gt;Quicken for Mac 的專案經理也到社群中喊話&lt;/a&gt;，說明為什麼在過去十年間 Quicken for Mac 的發展並不是那麼的理想，這故事同時也是專案管理的好案例。&lt;/p&gt;
+
+&lt;p&gt;Quicken for Mac 最後一個可用的版本是 2007 ，這一年也剛好是 Mac 從 PowerPC 轉換到 Intel CPU 上面，自此之後，整個 UI Toolkit 也換掉了。&lt;/p&gt;
+
+&lt;p&gt;這個轉變也影響了眾多的 Mac App 的開發商，因為要將軟體整個重寫搬到新的 API 上面去，在 2010 年 Intuit 發表了 Quicken Essentials for Mac ，這是重寫後第一個發表的板本，因為一時之間無法將所有的功能都重寫完，所以這是一個精簡版的 Quicken&lt;/p&gt;
+
+&lt;p&gt;而在 Quicken Essentials for Mac 發表後，因為 Mint.com 的收購案，Intuit決定將 Mac 的產品線收掉，因為 Mac 的市佔率不高，在未來發展性上，不如將資緣投注在 Mint 上面，於是 Quicken for Mac 就此停止發展。&lt;/p&gt;
+
+&lt;p&gt;時間又快轉到 2012 年， Macbook 的市佔率大幅提高，因此 Intuit 又決定重開產品線，然而當年 Quicken Essentials for Mac 的團隊早已解散多年，於是又要重頭開始建立起一個開發團隊，這一次，同樣又花了三年才把一個新的版本生出來。&lt;/p&gt;
+
+&lt;p&gt;Quicken for Mac 2015 算是一個全新的產品，在開發時，產品經理決定將整個功能都重新設計一遍，將產品重新打造，希望能夠吸引更多的顧客。當然，這一次的重寫要喪失了許多的基本功能，因此只算是個半成品，在 2016 , 2017 等版本才會將 Windows 版上的功能轉移過來。&lt;/p&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;結語&lt;/h1&gt;
+
+&lt;p&gt;我是很高興 Quicken for Mac 能夠繼續開發，因此還特別買了一套 2016 的版本，讓經營團隊知道，還是有顧客願意掏錢支持他們。&lt;/p&gt;
+
+&lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;OneJS=1&amp;amp;Operation=GetAdHtml&amp;amp;MarketPlace=US&amp;amp;source=ac&amp;amp;ref=qf_sp_asin_til&amp;amp;ad_type=product_link&amp;amp;tracking_id=elderengineer-20&amp;amp;marketplace=amazon&amp;amp;region=US&amp;amp;placement=B013EXD9KW&amp;amp;asins=B013EXD9KW&amp;amp;linkId=D6NONPCDRGO76BYA&amp;amp;show_border=true&amp;amp;link_opens_in_new_window=true&quot;&gt;
+
+
+
+
+
+&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 08 Apr 2016 22:24:56 +0800</pubDate>
+        <link>http://www.elderengineer.com/2016/04/08/quicken/</link>
+        <guid isPermaLink="true">http://www.elderengineer.com/2016/04/08/quicken/</guid>
+        
+        
+      </item>
     
       <item>
         <title>開台感言</title>
@@ -16,9 +74,9 @@
 &lt;p&gt;在這個已經沒什麼人寫部落格的年代，突然想寫下生活中的點點滴滴。&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 18 Mar 2016 23:09:07 -0700</pubDate>
-        <link>http://www.elderengineer.com/2016/03/18/welcome/</link>
-        <guid isPermaLink="true">http://www.elderengineer.com/2016/03/18/welcome/</guid>
+        <pubDate>Sat, 19 Mar 2016 14:09:07 +0800</pubDate>
+        <link>http://www.elderengineer.com/2016/03/19/welcome/</link>
+        <guid isPermaLink="true">http://www.elderengineer.com/2016/03/19/welcome/</guid>
         
         
       </item>
